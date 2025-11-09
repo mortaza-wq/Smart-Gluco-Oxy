@@ -1,0 +1,16 @@
+name: smart_gluco_oxy
+description: تطبيق لقراءة نسبة السكر والأوكسجين عبر بلوتوث HC-05 وإرسالها لتليجرام
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_bluetooth_serial: ^0.4.0
+  http: ^1.1.0
+
+flutter:
+  uses-material-design: true
