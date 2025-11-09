@@ -1,0 +1,2 @@
+const String BOT_TOKEN = "7432188229:AAHTVoX5GCB3KpzOQT0EORincghH_Nksd9o";
+const String CHAT_ID = "7432188229";
