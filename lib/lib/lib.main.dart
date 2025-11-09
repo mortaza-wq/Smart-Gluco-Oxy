@@ -88,11 +88,3 @@ class _SmartGlucoOxyAppState extends State<SmartGlucoOxyApp> {
                   textStyle: TextStyle(fontSize: 18),
                 ),
               ),
-            ],
-          ),
-        ),
-      ),
-    );
-  }
-}
-
